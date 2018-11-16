@@ -1,8 +1,8 @@
 # courseSD
 
-## This script is for those who desire the course to be selected in SDU.
+山东大学选课用脚本，时间间隔不要太短。
 
-## 山东大学选课用脚本，时间间隔不要太短。
+This script is for those who desire the course to be selected in SDU.
 
 Feeling free to use it but not evilly.
 
